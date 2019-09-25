@@ -1,0 +1,17 @@
+body {
+    text-align:center;
+    
+}
+
+button {
+
+    background-color:blue;
+    border: none;
+    color: white;
+    text-align: center;
+    margin: 4px 2px;
+    margin-right: auto; 
+    /* float: right; */
+    cursor: pointer;
+    
+}
